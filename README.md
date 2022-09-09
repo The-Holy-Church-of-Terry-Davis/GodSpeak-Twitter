@@ -1,5 +1,6 @@
 # GodSpeak-Twitter
 The official GitHub repo of the Godspeak Twitter Bot
+Give it a [follow](https://twitter.com/GodSpeak_Bot)!
 
 ## How this works?
 /vocab.txt is used as a datafile from where the contents are stored in a list, the [random](https://docs.python.org/3/library/random.html) module is then used to generate content.\
