@@ -1,5 +1,5 @@
 # GodSpeak-Twitter
-The official GitHub repo of the Godspeak Twitter Bot
+The official GitHub repo of the Godspeak Twitter Bot \
 Give it a [follow](https://twitter.com/GodSpeak_Bot)!
 
 ## How this works?
