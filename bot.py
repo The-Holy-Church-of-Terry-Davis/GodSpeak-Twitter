@@ -36,7 +36,7 @@ while True:
         tweet = response.json()
         final_tweet = tweet['quote']
         #print(final_tweet)
-        final_tweet = "'" + final_tweet + "'-Terry A Davis"
+        final_tweet = "'" + final_tweet + "' -Terry A Davis"
         #print(final_tweet)
         api.update_status(status=godspeak)
         api.update_status(status=final_tweet)
